@@ -132,6 +132,7 @@ main .x-card {
 }
 
 .card-2-button {
+  border: 1px solid #665e40 !important;
   background-color: #665e40 !important;
 }
 
@@ -144,6 +145,7 @@ main .x-card {
 }
 
 .card-3-button {
+  border: 1px solid #665e40 !important;
   background-color: #665e40 !important;
 }
 
@@ -156,6 +158,7 @@ main .x-card {
 }
 
 .card-4-button {
+  border: 1px solid #4a6440 !important;
   background-color: #4a6440 !important;
 }
 
